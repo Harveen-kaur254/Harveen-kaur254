@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Harveen Kaur Sandhu</h1>
-<h3 align="center">A passionate Data Analyst with the skillset of transforming data problems into business insights with experience is PYTHON, SQL, POWER BI, and EXCEL. Also a EDA(Exploratory Data Analysis) practitioner.</h3>
+<h3 align="center">A passionate Data Analyst with the skillset of transforming data problems into business insights with experience in PYTHON, SQL, POWER BI, and EXCEL. Also a EDA(Exploratory Data Analysis) practitioner.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harveen-kaur254" alt="harveen-kaur254" /></a> </p>
 
