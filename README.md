@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my profile 👋
 <h1 align="center">Hi 👋, I'm Harveen Kaur Sandhu</h1>
 <h3 align="center">A passionate Data Analyst with the skillset of transforming data problems into business insights with experience in PYTHON, SQL, POWER BI, and EXCEL. Also a EDA(Exploratory Data Analysis) practitioner.</h3>
 
