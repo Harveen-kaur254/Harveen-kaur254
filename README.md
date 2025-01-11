@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **harveenkaur254@gmail.com**
 
+- Also you can check my profile at [https://unstop.com/u/harvesan91768](https://unstop.com/u/harvesan91768)
+
 - ⚡ Fun fact **I m a fast learner and eager to work with data professionals in the industry.**
 
 <h3 align="left">Connect with me:</h3>
